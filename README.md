@@ -1,1 +1,1 @@
-Brewery Plugin Edited config with custom recipes
+# Brewery Plugin Edited config with custom recipes
