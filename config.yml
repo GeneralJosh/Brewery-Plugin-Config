@@ -874,7 +874,7 @@ recipes:
     effects: 
       - WATER_BREATHING/1/3
 
-  cachaca: Cachaca
+  cachaca:
     name: Poison/Sweet Alcohol/Cachaca
     ingredients: 
       - Sugar_Cane/13
@@ -885,7 +885,7 @@ recipes:
     difficulty: 6
     drinkmessage: 'Voce quer beber mais, mas nao tem certeza se aguenta'
 
-  Hand: Sanitiser
+  Hand: 
     name: Poison/Alcohol Wipes/Hand Sanitiser 
     ingredients: 
       - Potato/20
@@ -896,13 +896,13 @@ recipes:
     difficulty: 20
     drinkmessage: 'Should've drank that'
     lore:
-      +Don't
-      ++I said Don't
-      +++A Covid Safe Drink
+      - +Don't
+      - ++I said Don't
+      - +++A Covid Safe Drink
     effects: 
       - Poison/3/120
 
-  Coke: Coke
+  Coke: 
     name: Cola Water/Cheap Coke/&6Coca-Cola
     ingredients: 
       - Honey_Bottle/2
@@ -914,11 +914,12 @@ recipes:
     distillruns: 1
     difficulty: 6
     drinkmessage: 'Refreshing'
-    lore: Coca-Cola Revives and Sustains.
+    lore: 
+      - +++Coca-Cola Revives and Sustains
     effects: 
       - SATURATION/2
 
- Cough Syrup: Lean
+ Cough Syrup: 
     name: Medicated Water/Cough Syrup/Lean
     ingredients: 
       - Fermented_Spider_Eye/6
@@ -929,7 +930,8 @@ recipes:
     alcohol: 10
     distillruns: 3
     difficulty: 6
-    drinkmessage: God you're fucked
+    drinkmessage: 
+      - ++God you're fucked
     effects:
       - CONFUSION/2/20
       - GLOWING/3/60
