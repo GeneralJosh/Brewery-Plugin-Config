@@ -891,10 +891,9 @@ recipes:
       - Potato/20
     cookingtime: 20
     color: WHITE
-    alcohol: 100
+    alcohol: 10
     distillruns: 9
     difficulty: 20
-    drinkmessage: 'Should've drank that'
     lore:
       - +Don't
       - ++I said Don't
@@ -919,7 +918,7 @@ recipes:
     effects: 
       - SATURATION/2
 
- Cough Syrup: 
+  Cough_Syrup: 
     name: Medicated Water/Cough Syrup/Lean
     ingredients: 
       - Fermented_Spider_Eye/6
