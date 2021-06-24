@@ -10,14 +10,14 @@ keep the cheerful atmosphere. Fill the taverns with laughter and loud music, whi
 on the streets.
 
 
-##Fermenting!## 
+##Fermenting! 
 
 Place Cauldron over a Fire or other heat source Fill it with water Add Ingredients with a right click Wait a
 few minutes while they ferment Fill in glass bottles Use a clock on a cauldron, if you want to know the
 time the ingredients have been fermenting.
 
 
-##Distilling##
+##Distilling
 
 Some Recipes don't need distilling. Put the bottle with ferment into the brewing stand Put
 glowstone dust as filter on top into the brewing stand (The Glowstone will not be consumed) 
@@ -25,16 +25,17 @@ Aging Edit A barrel is needed for aging. Starting in 1.14 the Minecraft-Barrel c
 used for aging of a few brews. Simply craft and place the barrel und put the brews inside.
 You can also build bigger barrels. They can be built in two ways
 
-###Small Barrel###
+###Small Barrel
 Use 8 wooden stairs to build a barrel shape. Place a Sign on the lower right side and write "Barrel" in the upper Line:
 Message "Barrel created" should appear.
 
-###Big Barrel### 
+###Big Barrel 
 Use 5 Fences, 16 Wooden stairs, and 18 wood planks to build a barrel shape. Attach a Spigot (Fence) and 
 a Sign that has "Barrel" written on the first Line
 
 
-##Drinking##
+##Drinking!
+
 After Drinking, the player will find themselves not being able to speak properly in chat, unable to walk in
 a straight like and have minor - extreme nausea depending on how much they drank.
 Some effects of being plastered are: Nausea Slurred speech depending on drunkenness Trouble walking Vomiting Minor poison effect
@@ -50,7 +51,7 @@ Additionally curing your hangover can be done by eating bread or drinking milk a
 info" to check your drunk status
 
 
-##Recipes##
+##Recipes!
 
 Wheatbeer:
          
