@@ -14,7 +14,7 @@ on the streets.
 
 Place Cauldron over a Fire or other heat source Fill it with water Add Ingredients with a right click Wait a
 few minutes while they ferment Fill in glass bottles Use a clock on a cauldron, if you want to know the
-time the ingredients have been fermenting.
+time the ingredients have been fermenting. [here](https://imgur.com/94XLcLB)
 
 
 ## Distilling
@@ -23,15 +23,15 @@ Some Recipes don't need distilling. Put the bottle with ferment into the brewing
 glowstone dust as filter on top into the brewing stand (The Glowstone will not be consumed) 
 Aging Edit A barrel is needed for aging. Starting in 1.14 the Minecraft-Barrel can be
 used for aging of a few brews. Simply craft and place the barrel und put the brews inside.
-You can also build bigger barrels. They can be built in two ways
+You can also build bigger barrels. They can be built in two ways [here](https://imgur.com/5HFGDi5)
 
 ### Small Barrel
 Use 8 wooden stairs to build a barrel shape. Place a Sign on the lower right side and write "Barrel" in the upper Line:
-Message "Barrel created" should appear.
+Message "Barrel created" should appear. Example > [here](https://imgur.com/zbELYwg)
 
 ### Big Barrel 
 Use 5 Fences, 16 Wooden stairs, and 18 wood planks to build a barrel shape. Attach a Spigot (Fence) and 
-a Sign that has "Barrel" written on the first Line
+a Sign that has "Barrel" written on the first Line Example > [here](https://imgur.com/tSrVnhE)
 
 
 ## Drinking!
