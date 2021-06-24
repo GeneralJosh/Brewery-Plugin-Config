@@ -31,7 +31,7 @@ Message "Barrel created" should appear. Example > [here](https://imgur.com/zbELY
 
 ### Big Barrel 
 Use 5 Fences, 16 Wooden stairs, and 18 wood planks to build a barrel shape. Attach a Spigot (Fence) and 
-a Sign that has "Barrel" written on the first Line Example > [here](https://imgur.com/tSrVnhE)
+a Sign that has "Barrel" written on the first Line. Example > [here](https://imgur.com/tSrVnhE)
 
 
 ## Drinking!
