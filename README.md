@@ -75,6 +75,20 @@ Wheatbeer:
    Difficulty: 1
    Alcohol: 6
 
+ Glow Wine:
+    
+    Ingredients:
+      - glow_berries ???
+    Cookingtime: 8
+    Distillruns: ???
+    Wood: 1
+    Age: ???
+    Difficulty: 1
+    Alcohol: 3
+    Effects:
+      - GLOWING
+
+
  Darkbeer:
     
    Ingredients:
