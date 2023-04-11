@@ -243,6 +243,11 @@ cauldron:
     ingredients: vine
     color: '99ff66' # bright green
 
+  glow_berries:
+    name: Lit Brew
+    ingredients: glow_berries
+    color: 'ffee00' # bright yellow
+
   rot_flesh:
     name: Foul pest
     ingredients: Rotten_Flesh
@@ -412,6 +417,25 @@ recipes:
       - WEAKNESS/2-3/50-60
       - POISON/1-0/20-0
 
+  glow_wine:
+    name: Weak Shine/Glow in the Dark/Liquid Star
+    ingredients:
+      - glow_berries/5
+    cookingtime: 8
+    distillruns: 0
+    wood: 1
+    age: 20
+    color: 'ffee00' # Bright Yellow
+    difficulty: 1
+    alcohol: 3
+    lore:
+      - + &8Harsh and gritty with a mild shine
+      - + &8Weak Shine
+      - ++ &8Turn the lights off
+      - +++ &8Brighter than the Stars
+    effects:
+      - GLOWING/3/60
+
   wheatbeer:
     name: Skunky Wheatbeer/Wheatbeer/Wakachangi
     ingredients:
@@ -465,10 +489,10 @@ recipes:
     difficulty: 4
     alcohol: 8
     lore:
-      - '+ &8Harsh'
-      - '+ &8Corked'
-      - '++ &8Mellow'
-      - '+++ &8Full-Bodied'
+      - + &8Harsh
+      - + &8Corked
+      - ++ &8Mellow
+      - +++ &8Full-Bodied
 
   mead:
     name: Awkward Mead/Mead/&6Golden Mead
@@ -885,22 +909,6 @@ recipes:
     difficulty: 6
     drinkmessage: 'Voce quer beber mais, mas nao tem certeza se aguenta'
 
-  Hand: 
-    name: Poison/Alcohol Wipes/Hand Sanitiser 
-    ingredients: 
-      - Potato/20
-    cookingtime: 20
-    color: WHITE
-    alcohol: 10
-    distillruns: 9
-    difficulty: 20
-    lore:
-      - +Don't
-      - ++I said Don't
-      - +++A Covid Safe Drink
-    effects: 
-      - Poison/3/120
-
   Coke: 
     name: Cola Water/Cheap Coke/&6Coca-Cola
     ingredients: 
@@ -930,7 +938,7 @@ recipes:
     distillruns: 3
     difficulty: 6
     drinkmessage: 
-      - ++God you're fucked
+      - ++God 
     effects:
       - CONFUSION/2/20
       - GLOWING/3/60
